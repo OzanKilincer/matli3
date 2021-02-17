@@ -1,14 +1,11 @@
-  Matlı A.Ş. bilgisyar mühendisliği stajım süresince C# programlama dili ile geliştirdiğim, Microsoft SQL veritabanına
-LINQ ile erişim sağladığım projem.
+  Matlı A.Ş.'de bilgisyar mühendisliği stajım boyunca geliştiridiğim bu proje benim için C# programlama diline giriş niteliğindedir. Şirket içerisinde kullanılan MatlıNet ERP programının temellerini anlamam için çok güzel bir pratik niteliği taşımaktadır.
   
-  İçerisinde veritabanına veri ekleme ve veritabanından veri sorgulama programları, web servisler, windows servisler
+  Geliştiridiğim program Microsoft SQl veri tabanına LINQ yardımıyla veritabanında veri ekleme ve veri sorgulama fonksiyonları, web servisler, windows servisler
 ve 'responsive' site tasarımı gibi çeşitli içerikler bulunan projem, stajım süresince kazandığım yetenklerin kısa bir
 özeti mahiyetindedir.
 
 -------------
 
-  I've developed this project during my internship in Matli Inc. 
+  I've developed this project during my internship in Matli Inc. It is a very good practice for me to understand the basics of the MatlıNet ERP program used in the company.
   
-  Used C# programming language to build, LINQ to access Microsoft SQl database. It includes various content such as 
-adding data to the database and querying data from the database, web services, windows services and 'responsive' site 
-design. This proect is a brief summary of the skills I gained during my internship.
+  I've used C# programming language to build, LINQ to access Microsoft SQl database. It includes various content such as adding data to the database and querying data from the database, web services, windows services and 'responsive' site design. This proect is a brief summary of the skills I gained during my internship.
